@@ -1,4 +1,4 @@
-```markdown
+
 # My Own Blockchain
 
 This repository contains a custom blockchain implementation written entirely in Java.
@@ -50,6 +50,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Inspired by various blockchain tutorials and implementations.
-```
+
 
 You can modify this as per your repository's specific details. Let me know if you'd like me to refine this further
